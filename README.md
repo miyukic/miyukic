@@ -11,9 +11,14 @@ To be is better than perfact.
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyukic&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=miyukic&theme=onedark&show_icons=ture" />
 </p>
+
+## Accounts
+
 <a href="https://twitter.com/Miyukiumoo">
+  <p>Twitter</p>
   <img src="https://img.shields.io/static/v1?label=&message=twitter&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCnHC4vCULFtRm3f22hEu5ag/featured">
+  <p>YouTube</p>
   <img src="https://img.shields.io/badge/YouTube-%20-red.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
   <!-- <p><img src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat"></p>
   <p><img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat"></p> -->
