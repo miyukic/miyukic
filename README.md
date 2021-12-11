@@ -6,7 +6,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/miyukic?style=for-the-badge) <br>
 My favorite language is C #.<br>
 I'm interested in anything.
-To be is better than perfact.
+To be is better than perfact?<br>
+umooooo!
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyukic&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=miyukic&theme=onedark&show_icons=ture" />
