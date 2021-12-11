@@ -13,12 +13,11 @@ To be is better than perfact.
 </p>
 
 ## Accounts
-
+<p>◆ Twitter</p>
 <a href="https://twitter.com/Miyukiumoo">
-  <p>Twitter</p>
   <img src="https://img.shields.io/static/v1?label=&message=twitter&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<p>◆ YouTube</p>
 <a href="https://www.youtube.com/channel/UCnHC4vCULFtRm3f22hEu5ag/featured">
-  <p>YouTube</p>
   <img src="https://img.shields.io/badge/YouTube-%20-red.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
   <!-- <p><img src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat"></p>
   <p><img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat"></p> -->
