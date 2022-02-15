@@ -7,6 +7,7 @@
 My favorite language is C #.<br>
 I'm interested in anything.
 To be is better than perfact?<br>
+No, Done is better than perfect.
 umooooo!
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyukic&layout=compact&show_icons=true&theme=onedark" />
