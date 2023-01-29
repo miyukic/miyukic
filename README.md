@@ -4,7 +4,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/miyukic?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/miyukic?style=for-the-badge) <br>
-My favorite language is C #.<br>
+There are lots of different experimental codes, etc. at the moment..<br>
 I'm interested in anything.
 To be is better than perfact?<br>
 No, Done is better than perfect.
